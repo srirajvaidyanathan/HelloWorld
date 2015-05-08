@@ -6,7 +6,6 @@ public class HelloWorld {
 		displayHelloWorld();
 	}
 	
-	//Test comment for github webhook
 	public static void displayHelloWorld() {
 		System.out.println("HelloWorld");
 	}
