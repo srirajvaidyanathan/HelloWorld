@@ -13,5 +13,9 @@ public class ProcessUtils {
 	public static Integer computeProduct(Integer a, Integer b) {
 		return a*b;
 	}
+	
+	public static Integer computeQuotient(Integer a, Integer b) {
+		return a/b;
+	}
 
 }
